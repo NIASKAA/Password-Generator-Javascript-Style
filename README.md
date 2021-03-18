@@ -5,4 +5,4 @@ This website will make you a 8 words or higher password. You have the option to 
 
 Every password is completely randomly generated.
 
-![alt text](screenshot/demo.png "Example")
+![alt text](screenshot/Demo.png "Example")
